@@ -13,7 +13,7 @@ The depletion of fish populations affected by overfishing, illegal trade, and po
 # Team Member
 | Bangkit ID      | Name                   | Learning Path      | University                          | LinkedIn            |
 |------------------|------------------------|--------------------|--------------------------------------|---------------------|
-| M011B4KY2284    | Louis Koni Sung | Machine Learning   | Universitas Padjadjaran       | [LinkedIn](www.linkedin.com/in/louis-koni-sung)       |
+| M011B4KY2284    | Louis Koni Sung | Machine Learning   | Universitas Padjadjaran       | [LinkedIn](https://www.linkedin.com/in/louis-koni-sung)       |
 | M011B4KY2400    | Marciano Lie           | Machine Learning   | Universitas Padjadjaran        | [LinkedIn](https://www.linkedin.com/in/marcianolie/)       |
 | M011B4KY4209    | Stevanus Felixiano    | Machine Learning   | Universitas Padjadjaran       | [LinkedIn](https://www.linkedin.com/in/stevanus-felixiano/)       |
 | A284B4KY0090   | Adhityandi Anggara Putra| Mobile Development | Universitas Negeri Surabaya | [LinkedIn](https://www.linkedin.com/in/anggaraa/)       |

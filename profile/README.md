@@ -37,3 +37,7 @@ Our app, FishGuard, is an innovative application to meet these critical challeng
 ![Home Screen](https://raw.githubusercontent.com/FishGuard-Capstone/.github/main/Figma%20design/Home.jpg)
 ![Edit Profile Screen](https://raw.githubusercontent.com/FishGuard-Capstone/.github/main/Figma%20design/Edit%20Profile.jpg)
 ![Berita Screen](https://raw.githubusercontent.com/FishGuard-Capstone/.github/main/Figma%20design/Berita.jpg)
+
+# Video Demo
+
+# Download Our Apps

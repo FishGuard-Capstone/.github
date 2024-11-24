@@ -13,10 +13,10 @@ The depletion of fish populations affected by overfishing, illegal trade, and po
 # Team Member
 | Bangkit ID      | Name                   | Learning Path      | University                          | LinkedIn            |
 |------------------|------------------------|--------------------|--------------------------------------|---------------------|
-| M011B4KY2284    | Louis Koni Sung | Machine Learning   | Universitas Padjadjaran       | [LinkedIn](#)       |
-| M011B4KY2400    | Marciano Lie           | Machine Learning   | Universitas Padjadjaran        | [LinkedIn](#)       |
+| M011B4KY2284    | Louis Koni Sung | Machine Learning   | Universitas Padjadjaran       | [LinkedIn](www.linkedin.com/in/louis-koni-sung)       |
+| M011B4KY2400    | Marciano Lie           | Machine Learning   | Universitas Padjadjaran        | [LinkedIn](https://www.linkedin.com/in/marcianolie/)       |
 | M011B4KY4209    | Stevanus Felixiano    | Machine Learning   | Universitas Padjadjaran       | [LinkedIn](https://www.linkedin.com/in/stevanus-felixiano/)       |
-| A284B4KY0090   | Adhityandi Anggara Putra| Mobile Development | Universitas Negeri Surabaya | [LinkedIn](#)       |
+| A284B4KY0090   | Adhityandi Anggara Putra| Mobile Development | Universitas Negeri Surabaya | [LinkedIn](https://www.linkedin.com/in/anggaraa/)       |
 | A011B4KY3777   | Reymontha Tarigan       | Mobile Development | Universitas Padjadjaran | [LinkedIn](#)       |
 | C002B4KY0967  | Daffa Muhammad Rasyid      | Cloud Computing    | Institut Teknologi Bandung | [LinkedIn](https://www.linkedin.com/in/daffa-muhammad-rasyid-86918323b/)       |
 | C171B4KY4339    | Tian Sanjaya Junaedi     | Cloud Computing    | STMIK Mardira Indonesia | [LinkedIn](https://www.linkedin.com/in/jaya67)       |

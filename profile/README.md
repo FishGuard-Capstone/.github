@@ -6,6 +6,8 @@ Team ID: C242-PS323
 Project Name: FishGuard
 
 # FishGuard
+![FishGuard Icon](https://github.com/user-attachments/assets/2fe38b7e-9e14-4674-a8dd-03629e332859)
+
 Theme : Smart Agri-Fishery Solution: Agrotech and Fisheries Technology Integration
 
 The depletion of fish populations affected by overfishing, illegal trade, and poor awareness among fishermen and anglers poses a severe threat to marine biodiversity and forcing several species of fishes under protection into extinction. In Indonesia, where fishing is not only a source of livelihood but also part of the culture, lack of knowledge on protected species leads to unsustainable practices that jeopardize the ecosystem. Many fishers and anglers coincidentally catch and sell vulnerable species, continuing to drive them further toward extinction and destabilize marine ecosystems. <br>

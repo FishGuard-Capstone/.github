@@ -23,3 +23,16 @@ The depletion of fish populations affected by overfishing, illegal trade, and po
 
 
 # Design App
+![Splash Screen](https://raw.githubusercontent.com/FishGuard-Capstone/.github/main/Figma%20design/Splash.jpg)
+![Sign Up Screen](https://raw.githubusercontent.com/FishGuard-Capstone/.github/main/Figma%20design/Sign%20Up.jpg)
+![Sign In Screen](https://raw.githubusercontent.com/FishGuard-Capstone/.github/main/Figma%20design/Sign%20In.jpg)
+![Profile Screen](https://raw.githubusercontent.com/FishGuard-Capstone/.github/main/Figma%20design/Profile.jpg)
+![Onboard Screen 1](https://raw.githubusercontent.com/FishGuard-Capstone/.github/main/Figma%20design/Onboard-1.jpg)
+![Onboard Screen 2](https://raw.githubusercontent.com/FishGuard-Capstone/.github/main/Figma%20design/Onboard-2.jpg)
+![Onboard Screen 3](https://raw.githubusercontent.com/FishGuard-Capstone/.github/main/Figma%20design/Onboard-3.jpg)
+![Komunitas Screen](https://raw.githubusercontent.com/FishGuard-Capstone/.github/main/Figma%20design/Komunitas.jpg)
+![Identifikasi Screen](https://raw.githubusercontent.com/FishGuard-Capstone/.github/main/Figma%20design/Identifikasi.jpg)
+![Identifikasi Screen 1](https://raw.githubusercontent.com/FishGuard-Capstone/.github/main/Figma%20design/Identifikasi-1.jpg)
+![Home Screen](https://raw.githubusercontent.com/FishGuard-Capstone/.github/main/Figma%20design/Home.jpg)
+![Edit Profile Screen](https://raw.githubusercontent.com/FishGuard-Capstone/.github/main/Figma%20design/Edit%20Profile.jpg)
+![Berita Screen](https://raw.githubusercontent.com/FishGuard-Capstone/.github/main/Figma%20design/Berita.jpg)

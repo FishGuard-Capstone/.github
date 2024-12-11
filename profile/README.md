@@ -7,7 +7,7 @@ Project Name: FishGuard
 
 # FishGuard
 
-![FishGuard logo](https://github.com/user-attachments/assets/5270b09a-3a21-454b-9d73-febe6b640ce3)
+![FishGuard logo](https://github.com/user-attachments/assets/5d9a8d02-12c2-4ba3-b56f-f3a919170df2)
 
 
 Theme : Smart Agri-Fishery Solution: Agrotech and Fisheries Technology Integration

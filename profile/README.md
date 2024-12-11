@@ -6,7 +6,9 @@ Team ID: C242-PS323
 Project Name: FishGuard
 
 # FishGuard
-![FishGuard Icon](https://github.com/user-attachments/assets/2fe38b7e-9e14-4674-a8dd-03629e332859)
+
+![FishGuard logo](https://github.com/user-attachments/assets/5270b09a-3a21-454b-9d73-febe6b640ce3)
+
 
 Theme : Smart Agri-Fishery Solution: Agrotech and Fisheries Technology Integration
 

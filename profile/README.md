@@ -43,5 +43,7 @@ Our app, FishGuard, is an innovative application to meet these critical challeng
 ![Berita Screen](https://raw.githubusercontent.com/FishGuard-Capstone/.github/main/Figma%20design/Berita.jpg)
 
 # Video Demo
+https://drive.google.com/drive/folders/17eFUsQqC4CeGU3Lyx-NqHAJ8f2t8xUmc?usp=sharing
 
 # Download Our Apps
+https://drive.google.com/drive/folders/1v361Pu2Y7y_2jpWg-_COtmBCovBKV7Qh?usp=drive_link
